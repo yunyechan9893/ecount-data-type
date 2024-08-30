@@ -1,0 +1,11 @@
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\MyStructure\bin\Debug\net6.0\MyStructure.deps.json
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\MyStructure\bin\Debug\net6.0\MyStructure.dll
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\MyStructure\bin\Debug\net6.0\MyStructure.pdb
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\MyStructure\obj\Debug\net6.0\MyStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\MyStructure\obj\Debug\net6.0\MyStructure.AssemblyInfoInputs.cache
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\MyStructure\obj\Debug\net6.0\MyStructure.AssemblyInfo.cs
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\MyStructure\obj\Debug\net6.0\MyStructure.csproj.CoreCompileInputs.cache
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\MyStructure\obj\Debug\net6.0\MyStructure.dll
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\MyStructure\obj\Debug\net6.0\refint\MyStructure.dll
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\MyStructure\obj\Debug\net6.0\MyStructure.pdb
+C:\Users\devedu16\Desktop\ecount-education\3_C#\practice\MyStructure\obj\Debug\net6.0\ref\MyStructure.dll
